@@ -1,0 +1,84 @@
+{
+	"ServicesList": [{
+			"serviceId": 1,
+			"serviceName": "Cosmetic",
+			"serviceDetails": "Cosmetic"
+		},
+		{
+			"serviceId": 2,
+			"serviceName": "Dermal",
+			"serviceDetails": "Dermal"
+		},
+		{
+			"serviceId": 3,
+			"serviceName": "Plastic surgeons",
+			"serviceDetails": "Plastic surgeons"
+		},
+		{
+			"serviceId": 4,
+			"serviceName": "Body ",
+			"serviceDetails": "Body"
+		},
+		{
+			"serviceId": 5,
+			"serviceName": "Contouring",
+			"serviceDetails": "Contouring"
+		},
+		{
+			"serviceId": 6,
+			"serviceName": "Skin",
+			"serviceDetails": "Skin "
+		},
+		{
+			"serviceId": 7,
+			"serviceName": "resurfacing",
+			"serviceDetails": "resurfacing"
+		},
+		{
+			"serviceId": 8,
+			"serviceName": "Beautician",
+			"serviceDetails": "Beautician"
+		},
+		{
+			"serviceId": 9,
+			"serviceName": "facial",
+			"serviceDetails": "facial"
+		},
+		{
+			"serviceId": 10,
+			"serviceName": "hair removal ",
+			"serviceDetails": "hair removal"
+		}
+	],
+	"InsuranceList": [{
+			"insuranceId": 1,
+			"insuranceName": "HBF",
+			"insuranceDetails": "HBF"
+		},
+		{
+			"insuranceId": 2,
+			"insuranceName": "Medibank",
+			"insuranceDetails": "Medibank"
+		},
+		{
+			"insuranceId": 3,
+			"insuranceName": "HIF",
+			"insuranceDetails": "HIF"
+		},
+		{
+			"insuranceId": 4,
+			"insuranceName": "BUPA",
+			"insuranceDetails": "BUPA"
+		},
+		{
+			"insuranceId": 5,
+			"insuranceName": "MEDICARE",
+			"insuranceDetails": "MEDICARE"
+		},
+		{
+			"insuranceId": 6,
+			"insuranceName": "MEDIBANK",
+			"insuranceDetails": "MEDIBANK"
+		}
+	]
+}
